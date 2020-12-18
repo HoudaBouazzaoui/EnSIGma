@@ -1,4 +1,4 @@
-# EnSigma
+# EnSiGma-master
 #The game's map is based on leaflet library!
 
 
@@ -42,7 +42,7 @@ If that's not the case change the port in index.php, get-joueurs.php and ObjetsE
 Now that the database is set and the website is well deployed on your local server, all that is left is 
 to browse an url like: 
 ```
-http://localhost/EnSIGma/
+http://localhost/EnSIGma-master/
 ***Make sure to specify the port if it is different than 80 !
 ```
 
