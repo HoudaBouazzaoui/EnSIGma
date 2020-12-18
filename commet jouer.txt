@@ -1,0 +1,32 @@
+##### EnSIGma : Description du jeu ######
+
+
+Partie 1: Venezuela :
+
+
+Venezuela est connu pour un pays avec un taux de criminalité très élevé tu y atterris pour une mission mais malheureusement des criminels te visent !!
+Les agents secrets Anne et Ricardo te préviennent et te donnent rendez-vous à la voiture.
+
+Objectif: Trouver la voiture.
+Etapes:
+Trouver
+mot de passe du téléphone->téléphone->codeQr->position->clé de la voiture->voiture
+
+**A la limite ouest de Venezuela récupérer un bateau pour aller à l’Etats-Unis d’ Amérique en traversant la mer des Caraïbes.
+
+
+Partie 2: Etats-Unis d'Amérique :
+
+
+Vous partez dans une aventure aux USA. Le Big Boss vous envoie en mission pour récupérer un coffre secret.
+
+Objectif: Trouver le coffre secret.
+Etapes:
+Trouver
+ticket->train->postOffice->archive->sheet(mémoriser le code1 affiché)->mall->dépôt->cutter->box->code(mémoriser le code2 affiché)->coffre
+
+**Dans la pop-up du coffre entrer le code (code1code2) (5286).
+
+Le jeu se termine lorsque vous arriver à récupérer tous les objets !
+Un message de félicitations s'affiche et votre pseudo et score sont enregistrés dans la base de données (joueurs).
+Ces données sont ensuite utilisés pour afficher les 3 meilleurs scores dans la rubrique Top Players de la page d'acceuil.
